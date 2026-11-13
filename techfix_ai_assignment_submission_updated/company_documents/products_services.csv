@@ -1,0 +1,13 @@
+record_type,product_or_service,model_or_code,description,price_pkr,warranty_months,availability,status_note
+product,Split AC indoor unit,TF-AC12,1.0 ton cooling capacity; installation quoted separately,92000,12,listed,Filter cleaning guide included
+product,Split AC outdoor unit,TF-AC12-O,Compatible outdoor unit for TF-AC12 indoor unit,68000,12,listed,Compatibility must be checked before ordering
+product,Inverter wall thermostat,TF-TH20,Wall thermostat with temperature display and scheduling,8500,6,listed,Requires compatible HVAC control wiring
+product,Air filter pack,TF-FP4,Four replacement filters sized for the TF-AC12 indoor unit,2400,0,listed,Check unit model before purchase
+product,Indoor CCTV camera,TF-CAM2,1080p indoor camera with local network viewing,12500,12,listed,Power adapter included
+product,Outdoor CCTV camera,TF-CAM4,Weather-resistant 4MP outdoor camera,21800,12,listed,Mounting hardware included
+product,8-channel recorder,TF-NVR8,Network recorder supporting up to eight compatible cameras,39500,12,listed,Storage drive sold separately
+product,PoE switch,TF-POE8,Eight-port power-over-ethernet switch for compatible cameras,18200,6,listed,Maximum power depends on connected devices
+service,Remote setup consultation,SR-REMOTE,Thirty-minute scheduled call to help locate a setup guide and review non-invasive checks,1800,0,listed,No electrical diagnosis or repair work
+service,On-site basic setup visit,SR-VISIT,One-hour appointment for equipment placement and documented basic setup,4500,0,listed,Availability depends on service area and schedule
+service,Custom-configured CCTV bundle,SR-CUSTOM,Customer-selected camera and recorder bundle configured before dispatch,Quoted,0,limited,Change-of-mind returns excluded after configuration begins
+service,Preventive filter reminder,SR-REMINDER,Email reminder for customer-recorded filter inspection dates,Free,0,listed,Does not monitor equipment or replace inspection
