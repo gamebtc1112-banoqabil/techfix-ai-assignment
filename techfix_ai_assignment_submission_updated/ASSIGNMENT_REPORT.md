@@ -1,9 +1,12 @@
 # TechFix AI - Assignment Report
 
 **Student:** MUHAMMAD AFZAL #   518550  
-**Course / section:** GENERATIVE AI 
+**Course / section:** GENERATIVE AI
+
 **Demo video (3–5 minutes):** [Watch TechFix AI demo](https://drive.google.com/file/d/19L3nY1U-insy3m48DG2RqrcgIdRolvL9/view?usp=sharing)
+
 **Drive project ZIP:** [Open TechFix AI project ZIP](https://drive.google.com/file/d/1oCMBx_XA-Z1M177j0-jbbwXPXbQJQwlg/view?usp=sharing)
+
 **GitHub project:** [View TechFix AI repository](https://github.com/gamebtc1112-banoqabil/techfix-ai-assignment)
 
 ## Problem and solution
